@@ -1,3 +1,14 @@
-body{
+@import url( "style/heard.css");
     background-color: rgb(40, 184, 52);
-}
+}:root{
+--cor-de-fundo:#EBECEE
+--branco:#FFFFFF;
+
+body
+background-color:var(var(--cor-de-fundo);
+:link rel:"stylesheet" href:"styles.css"
+</head>
+
+
+
+
